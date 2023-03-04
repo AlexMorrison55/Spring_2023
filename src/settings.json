@@ -1,5 +1,7 @@
 {
     "container": "map",
-    "accessToken": "",
-    "style": "mapbox://styles/mapbox/streets-v11"
+    "accessToken": "pk.eyJ1IjoibWFyYy1tb3JyaXNvbiIsImEiOiJjamJtbDVrM3oxYjB3MnFxa3Rna3J1ZGVsIn0.2iJCZbnzlyOevdmX0qzNiw",
+    "style": "mapbox://styles/marc-morrison/cleud6fgv001l01p1b0y6nalg"
+     
+
 }
